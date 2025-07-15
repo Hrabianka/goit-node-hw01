@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hrabianka/goit-node-hw01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hrabianka/goit-node-hw01/issues"
+  },
+  "homepage": "https://github.com/Hrabianka/goit-node-hw01#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
